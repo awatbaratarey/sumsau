@@ -11,5 +11,12 @@ public with sharing class fromIntJClass {
     // chneges for branch 2 6:21 4/21
     // Let see this 6:23
     // making changes in Github 6:26 4/21
+<<<<<<< HEAD
 
+=======
+    
+    
+    
+    // making changes 2nd in Github 6:28 4/21
+>>>>>>> 34869537fc509c10b78605461bf37f7d7947c98b
 }
