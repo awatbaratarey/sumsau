@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="530e9d28-9b1d-4796-90c2-b77e004edcc3" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="530e9d28-9b1d-4796-90c2-b77e004edcc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/illuminatedCloud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/sumsau/OfflineSymbolTable.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectFilesBackup/sumsau.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumsau.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/fromIntJClass.cls" beforeDir="false" afterPath="$PROJECT_DIR$/classes/fromIntJClass.cls" afterDir="false" />
+    </list>
+>>>>>>> ef6c096dacafa6c8b179db497c588285d8c41a49
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +69,11 @@
                 <ConnectionWorkspaceSettings>
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
+<<<<<<< HEAD
                       <entry key="CLASSES/FROMINTJCLASS.CLS" value="1555895272018" />
+=======
+                      <entry key="CLASSES/FROMINTJCLASS.CLS" value="1555894454207" />
+>>>>>>> ef6c096dacafa6c8b179db497c588285d8c41a49
                     </map>
                   </option>
                 </ConnectionWorkspaceSettings>
@@ -84,7 +102,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="ProjectPane" />
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sumsau" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sumsau" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sumsau" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> ef6c096dacafa6c8b179db497c588285d8c41a49
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -119,6 +162,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="0" width="1075" height="830" extended-state="0" />
+<<<<<<< HEAD
+=======
+    <editor active="true" />
+>>>>>>> ef6c096dacafa6c8b179db497c588285d8c41a49
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3763547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
